@@ -5,4 +5,4 @@ You have two options for starter code here.
 - alternative_starter_code
 
 You may use whichever one you wish.
-You can view assignment instructions here: https://docs.google.com/document/d/1bCmOnRzvuXoa4zbBDz7QUFqvGXOTq8nyu8hTUBuDQ1I/edit?tab=t.0
+You can view assignment instructions here: https://docs.google.com/document/d/1bCmOnRzvuXoa4zbBDz7QUFqvGXOTq8nyu8hTUBuDQ1I/edit?usp=sharing
