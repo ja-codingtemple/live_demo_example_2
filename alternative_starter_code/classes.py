@@ -34,7 +34,7 @@ class Character:
         elif hasattr(opponent, 'evadeNextAttack') and opponent.evadeNextAttack == False:
             opponent.health -= damage
             print(f"\n{self.name} attacks {opponent.name} for {damage} damage!")
-        # Else, if they do have an 'evadeNextAttack' attribute and the value is True, decrement the value and display that the attack was evaded.
+        # Else, if they do have an 'evadeNextAttack' attribute and the value is True, set the value back to False and display that the attack was evaded.
         elif hasattr(opponent, 'evadeNextAttack') and opponent.evadeNextAttack == True:
             print(f"\n{self.name} attacks {opponent.name}, but {opponent.name} evades the attack!")
             opponent.evadeNextAttack = False
